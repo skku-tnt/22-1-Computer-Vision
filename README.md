@@ -68,7 +68,8 @@
 ## **🔔 커리큘럼**
 커리큘럼은 다음과 같습니다. 해당 커리큘럼은 추후 논의 후 변동 가능합니다.
 
-![커리.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/90b40bbb-93be-41b7-94db-f1b0e6ab19aa/커리.png)
+![image](https://user-images.githubusercontent.com/89994770/155848109-ae336fdf-1c04-43be-a124-223bc7e19e9a.png)
+
 
 ## 🔔 링크
 
