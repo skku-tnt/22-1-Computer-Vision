@@ -61,7 +61,6 @@
 > 
 
 ## **🔔 커리큘럼**
-![커리.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/90b40bbb-93be-41b7-94db-f1b0e6ab19aa/커리.png)
 
 
 ## 🔔 링크
