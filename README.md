@@ -67,6 +67,5 @@
 
 - [**TNT 유튜브**](https://www.youtube.com/channel/UCmx25Y3u1S-5rkoVvWdXWaw)
 - [깃허브](https://github.com/skku-tnt/22-1-Computer-Vision)
-- [**노션**](https://www.notion.so/2022-1-TNT-1c178663bde5408d95322ea7f6fe770a)
 
 22-01 컴퓨터비전 팀장 서유진 올림
