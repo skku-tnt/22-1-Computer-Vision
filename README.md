@@ -50,7 +50,7 @@
 
 ### **-** Convolutional Neural Networks for Visual Recognition
 
-> : 총 16개의 강의로 구성되어 있지만, 저희는 Lecture 2부터 Lecture 15까지만 진행할 예정입니다. 매주 2개의 강의를 2명의 발제자가 각각 맡아서 진행합니다.
+> : 총 16개의 강의로 구성되어 있지만, 저희는 Lecture 2부터 Lecture 14까지만 진행할 예정입니다. 매주 2개의 강의를 진행합니다.
 > 
 
 ## **🔔 커리큘럼**
